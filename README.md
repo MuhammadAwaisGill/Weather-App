@@ -52,3 +52,5 @@ If app doesn't work on mobile:
 ## License
 
 MIT
+
+![Home Screen](Screenshot 2026-01-01 123706.png)
