@@ -53,4 +53,15 @@ If app doesn't work on mobile:
 
 MIT
 
-![Home Screen](Screenshot 2026-01-01 123706.png)
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot 2026-01-01 123706.png" width="250" alt="Screenshot 1"/>
+  <img src="Screenshot 2026-01-01 123738.png" width="250" alt="Screenshot 2"/>
+  <img src="Screenshot 2026-01-01 123752.png" width="250" alt="Screenshot 3"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-01-01 123829.png" width="250" alt="Screenshot 4"/>
+  <img src="Screenshot 2026-01-01 123858.png" width="250" alt="Screenshot 5"/>
+</p>
